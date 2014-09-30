@@ -1,6 +1,2 @@
-# combined both texts from master and feature-branch-remote
-
 commit-remote in master
-
-commit-remote in feature-branch-remote
 
